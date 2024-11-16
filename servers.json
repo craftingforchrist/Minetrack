@@ -1,15 +1,5 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
-		"type": "PC"
-	},
-	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
-		"type": "PC"
-	},
-	{
 		"name": "Crafting For Christ",
 		"ip": "play.craftingforchrist.net",
 		"type": "PC"
@@ -27,6 +17,16 @@
 	{
 		"name": "Crafters Of God's Love",
 		"ip": "craftersofgodslove.mcserver.at",
+		"type": "PC"
+	},
+	{
+		"name": "The Studio SMP",
+		"ip": "51.161.198.199:19236",
+		"type": "PC"
+	},
+	{
+		"name": "LoreCraft",
+		"ip": "mc.lorecraft.cc",
 		"type": "PC"
 	}
 ]
