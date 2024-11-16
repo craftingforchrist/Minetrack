@@ -8,5 +8,11 @@
 		"name": "CubeCraft",
 		"ip": "play.cubecraft.net",
 		"type": "PC"
+	},
+	{
+		"name": "Crafting For Christ",
+		"ip": "play.craftingforchrist.net",
+		"type": "PC"
+		
 	}
 ]
