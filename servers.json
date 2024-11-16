@@ -13,5 +13,20 @@
 		"name": "Crafting For Christ",
 		"ip": "play.craftingforchrist.net",
 		"type": "PC"
+	},
+	{
+		"name": "Christian MC",
+		"ip": "christianmc.apexmc.co:25672",
+		"type": "PC"
+	},
+	{
+		"name": "GospelCraft",
+		"ip": "GospelCraft.com",
+		"type": "PC"
+	},
+	{
+		"name": "Crafters Of God's Love",
+		"ip": "craftersofgodslove.mcserver.at",
+		"type": "PC"
 	}
 ]
